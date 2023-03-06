@@ -1,0 +1,8 @@
+Realizar commit para versionar no Git
+git commit -m "escrever o que esta sendo comitado no git"
+
+Mstrar que tem arquivo comitado e precisa do push para subir para o github
+git status
+
+Subindo o arquivo para o Github
+git push origin main
