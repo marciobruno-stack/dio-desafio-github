@@ -1,3 +1,6 @@
+puxar o diretório do github para a maquina local
+git clone "copiar o diretório do github"
+
 Realizar commit para versionar no Git
 git commit -m "escrever o que esta sendo comitado no git"
 
