@@ -1,6 +1,10 @@
 Realizar commit para versionar no Git
 git commit -m "escrever o que esta sendo comitado no git"
 
+
+adoinando comentario 
+git add . ou git add -a
+
 Mstrar que tem arquivo comitado e precisa do push para subir para o github
 git status
 
